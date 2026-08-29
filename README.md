@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは、私は[sho29saka31](https://github.com/sho29saka31)です</h1>
+<h1 align="center">こんにちは、私はsho29saka31です</h1>
 <p align="center">私は日本を拠点に活動するユーザーです</p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
-<!--ここに、supabase,firebase,react,nodejs,tailwindcss,figmaを追加-->
+<!--ここに、supabase,firebase,react,nodejs,tailwindcss,figma,vercel,sentryを追加-->
 
 ### 📊 GitHub統計
 
