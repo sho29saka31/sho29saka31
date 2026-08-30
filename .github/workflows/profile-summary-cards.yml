@@ -15,18 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate light theme (github)
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      # THEMEを空にすると全テーマを1回で生成する(実行のたびに出力フォルダ全体が
+      # 作り直されるため、light/darkを別ステップにすると片方が消えてしまう)
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          THEME: github
-
-      - name: Generate dark theme (github_dark)
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          THEME: github_dark
