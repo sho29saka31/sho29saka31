@@ -23,6 +23,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=windows,git,github,githubactions,figma,vercel,supabase,firebase,sentry&theme=dark" alt="Tools">
+  <img src="https://img.shields.io/badge/%20-D97757?style=for-the-badge&logo=claude&logoColor=white&logoSize=auto" alt="Claude">
+  <img src="https://img.shields.io/badge/%20-D97757?style=for-the-badge&logo=claudecode&logoColor=white&logoSize=auto" alt="Claude Code">
 </p>
 
 ### 📊 GitHub統計
