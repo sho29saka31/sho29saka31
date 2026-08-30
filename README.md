@@ -37,8 +37,8 @@
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase">
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase">
   <img src="https://skillicons.dev/icons?i=sentry&theme=dark" width="48" height="48" alt="Sentry">
-  <img src="https://img.shields.io/badge/%20-D97757?style=for-the-badge&logo=claude&logoColor=white&logoSize=auto" height="48" alt="Claude">
-  <img src="https://img.shields.io/badge/%20-D97757?style=for-the-badge&logo=claudecode&logoColor=white&logoSize=auto" height="48" alt="Claude Code">
+  <img src="./assets/icons/claude.svg" width="48" height="48" alt="Claude">
+  <img src="./assets/icons/claude-code.svg" width="48" height="48" alt="Claude Code">
 </p>
 
 ### 📊 GitHub統計
