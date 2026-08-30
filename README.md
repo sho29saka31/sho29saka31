@@ -22,7 +22,7 @@
 ### 🧰 ツール
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,git,github,githubactions,figma,vercel,supabase,firebase,sentry,claude,claudecode&theme=dark" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=windows,git,github,githubactions,figma,vercel,supabase,firebase,sentry&theme=dark" alt="Tools">
 </p>
 
 ### 📊 GitHub統計
