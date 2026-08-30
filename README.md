@@ -13,29 +13,24 @@
 - 💡 ウェブサイト開発・ソフトウェア開発に興味があります。
 - 📫 連絡は [GitHub](https://github.com/sho29saka31) か、各リポジトリのIssueからお気軽にどうぞ
 
-### 🛠️ 技術スタック
+### 🔤 言語
 
 <p>
-  <img src="https://img.shields.io/badge/%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto" alt="JavaScript">
-  <img src="https://img.shields.io/badge/%20-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto" alt="TypeScript">
-  <img src="https://img.shields.io/badge/%20-F03C2E?style=for-the-badge&logo=git&logoColor=white&logoSize=auto" alt="Git">
-  <img src="https://img.shields.io/badge/%20-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=auto" alt="React">
-  <img src="https://img.shields.io/badge/%20-5FA04E?style=for-the-badge&logo=node.js&logoColor=white&logoSize=auto" alt="Node.js">
-  <img src="https://img.shields.io/badge/%20-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=auto" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/%20-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black&logoSize=auto" alt="Supabase">
-  <img src="https://img.shields.io/badge/%20-DD2C00?style=for-the-badge&logo=firebase&logoColor=white&logoSize=auto" alt="Firebase">
-  <img src="https://img.shields.io/badge/%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto" alt="Figma">
-  <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=vercel&logoColor=white&logoSize=auto" alt="Vercel">
-  <img src="https://img.shields.io/badge/%20-362D59?style=for-the-badge&logo=sentry&logoColor=white&logoSize=auto" alt="Sentry">
+  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Languages">
+</p>
+
+### 🧰 ツール・フレームワーク
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,react,nodejs,tailwind,supabase,firebase,figma,vercel,sentry&theme=dark" alt="Tools">
 </p>
 
 ### 📊 GitHub統計
 
-GitHub Actionsで毎日生成される静的SVGを表示しています([.github/workflows/update-readme-cards.yml](.github/workflows/update-readme-cards.yml))。
+GitHub Actionsで毎日生成される統計カードを表示しています([.github/workflows/profile-summary-cards.yml](.github/workflows/profile-summary-cards.yml))。
 
 <p>
-  <img src="./profile/stats.svg" alt="sho29saka31's GitHub stats" height="165">
-  <img src="./profile/top-langs.svg" alt="Top languages" height="165">
+  <img src="https://raw.githubusercontent.com/sho29saka31/sho29saka31/profile-summary-card-output/profile-summary-card-dark.svg" alt="sho29saka31's GitHub stats">
 </p>
 
 <!--
