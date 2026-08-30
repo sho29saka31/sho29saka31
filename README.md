@@ -16,13 +16,13 @@
 ### 🔤 言語
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind&theme=dark" alt="Languages">
 </p>
 
-### 🧰 ツール・フレームワーク
+### 🧰 ツール
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,react,nodejs,tailwind,supabase,firebase,figma,vercel,sentry&theme=dark" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=windows,git,github,githubactions,figma,vercel,supabase,firebase,sentry,claude,claudecode&theme=dark" alt="Tools">
 </p>
 
 ### 📊 GitHub統計
