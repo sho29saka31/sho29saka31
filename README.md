@@ -46,8 +46,8 @@
 GitHub Actionsで毎日生成される統計カードを表示しています([.github/workflows/profile-summary-cards.yml](.github/workflows/profile-summary-cards.yml))。
 
 <p>
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="sho29saka31's GitHub stats">
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages">
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="sho29saka31's GitHub stats">
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most used languages">
 </p>
 
 <!--
