@@ -18,11 +18,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML">
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS">
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript">
   <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js">
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS">
 </p>
 
 ### 🧰 ツール
@@ -33,9 +33,9 @@
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub">
   <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma">
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel">
   <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase">
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel">
   <img src="https://skillicons.dev/icons?i=sentry&theme=dark" width="48" height="48" alt="Sentry">
   <img src="./assets/icons/claude.svg" width="48" height="48" alt="Claude">
   <img src="./assets/icons/claude-code.svg" width="48" height="48" alt="Claude Code">
