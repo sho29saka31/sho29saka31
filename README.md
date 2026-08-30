@@ -16,15 +16,29 @@
 ### 🔤 言語
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind&theme=dark" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript">
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind CSS">
 </p>
 
 ### 🧰 ツール
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,git,github,githubactions,figma,vercel,supabase,firebase,sentry&theme=dark" alt="Tools">
-  <img src="https://img.shields.io/badge/%20-D97757?style=for-the-badge&logo=claude&logoColor=white&logoSize=auto" alt="Claude">
-  <img src="https://img.shields.io/badge/%20-D97757?style=for-the-badge&logo=claudecode&logoColor=white&logoSize=auto" alt="Claude Code">
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="48" height="48" alt="Windows">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel">
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase">
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase">
+  <img src="https://skillicons.dev/icons?i=sentry&theme=dark" width="48" height="48" alt="Sentry">
+  <img src="https://img.shields.io/badge/%20-D97757?style=for-the-badge&logo=claude&logoColor=white&logoSize=auto" width="48" height="48" alt="Claude">
+  <img src="https://img.shields.io/badge/%20-D97757?style=for-the-badge&logo=claudecode&logoColor=white&logoSize=auto" width="48" height="48" alt="Claude Code">
 </p>
 
 ### 📊 GitHub統計
