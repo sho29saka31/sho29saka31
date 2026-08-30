@@ -31,9 +31,11 @@
 
 ### 📊 GitHub統計
 
+GitHub Actionsで毎日生成される静的SVGを表示しています([.github/workflows/update-readme-cards.yml](.github/workflows/update-readme-cards.yml))。
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sho29saka31&show_icons=true&theme=default" alt="sho29saka31's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sho29saka31&layout=compact&theme=default" alt="Top languages" height="165">
+  <img src="./profile/stats.svg" alt="sho29saka31's GitHub stats" height="165">
+  <img src="./profile/top-langs.svg" alt="Top languages" height="165">
 </p>
 
 <!--
