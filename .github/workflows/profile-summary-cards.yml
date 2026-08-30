@@ -14,7 +14,8 @@ jobs:
 
     steps:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
-          theme: github_dark
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
