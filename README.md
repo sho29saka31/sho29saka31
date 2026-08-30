@@ -16,17 +16,17 @@
 ### 🛠️ 技術スタック
 
 <p>
-  <img src="https://img.shields.io/badge/%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/%20-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/%20-F03C2E?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/%20-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/%20-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/%20-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/%20-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase">
-  <img src="https://img.shields.io/badge/%20-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/%20-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
+  <img src="https://img.shields.io/badge/%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto" alt="JavaScript">
+  <img src="https://img.shields.io/badge/%20-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto" alt="TypeScript">
+  <img src="https://img.shields.io/badge/%20-F03C2E?style=for-the-badge&logo=git&logoColor=white&logoSize=auto" alt="Git">
+  <img src="https://img.shields.io/badge/%20-61DAFB?style=for-the-badge&logo=react&logoColor=black&logoSize=auto" alt="React">
+  <img src="https://img.shields.io/badge/%20-5FA04E?style=for-the-badge&logo=node.js&logoColor=white&logoSize=auto" alt="Node.js">
+  <img src="https://img.shields.io/badge/%20-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=auto" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/%20-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black&logoSize=auto" alt="Supabase">
+  <img src="https://img.shields.io/badge/%20-DD2C00?style=for-the-badge&logo=firebase&logoColor=white&logoSize=auto" alt="Firebase">
+  <img src="https://img.shields.io/badge/%20-F24E1E?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto" alt="Figma">
+  <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=vercel&logoColor=white&logoSize=auto" alt="Vercel">
+  <img src="https://img.shields.io/badge/%20-362D59?style=for-the-badge&logo=sentry&logoColor=white&logoSize=auto" alt="Sentry">
 </p>
 
 ### 📊 GitHub統計
