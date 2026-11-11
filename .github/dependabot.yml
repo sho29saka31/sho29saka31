@@ -1,0 +1,7 @@
+# Dependabot の版上げの設定。ワークフローで使う Action(コミットの SHA で固定している)を、新しい版に追従させる。
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
